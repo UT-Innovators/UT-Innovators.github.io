@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on UT Innovators</title>
-    <link>http://UT-Innovators.github.io/tags/</link>
+    <link>https://ut-innovators.github.io/tags/</link>
     <description>Recent content in Tags on UT Innovators</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://UT-Innovators.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://ut-innovators.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

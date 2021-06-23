@@ -1,0 +1,9 @@
+enable  : true
+title   : 私たち
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : お名前
+    designation : 役職
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

@@ -1,0 +1,11 @@
+enable  : true
+title   : "実際の意見"
+subtitle: "私達のサービスに寄せられた意見"
+testimonial_item :
+  - thumb : "images/testimonial/syoumeisyashin_man.png"
+    name  : "サンプル太郎"
+    company_position: "年齢, 出身地"
+    quote : > 
+            "ここにレビュー内容が入ります。" 
+
+  

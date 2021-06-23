@@ -1,0 +1,14 @@
+enable : true
+heading : "私達のこれまで"
+counter_item: 
+  - title: "満足いただけたユーザー(サンプル)"
+    number: "100"
+
+  - title: "ユーザーとの個別相談(サンプル)"
+    number: "100"
+
+  - title: "Twitterのフォロワー(サンプル)"
+    number: "350"
+
+  - title: "DM(Twitter)での相談(サンプル)"
+    number: "500"

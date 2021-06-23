@@ -1,4 +1,4 @@
-baseURL       = "http://UT-Innovators.github.io/"
+baseURL       = "https://ut-innovators.github.io"
 languageCode  = "ja"
 title         = "UT Innovators"
 theme         = "roxo"

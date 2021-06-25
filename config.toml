@@ -120,3 +120,6 @@ publishDir    = "docs"
     #  [params.footer.service]
     #    title       = "We help brands:"
     #    description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+
+[taxonomies]
+   tag = "authors"

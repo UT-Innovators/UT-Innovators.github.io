@@ -39,7 +39,7 @@ publishDir    = "docs"
   # Google Analitycs
   #googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://docs.google.com/forms/d/e/1FAIpQLSdo18flpjsVsi0Ivnb3vkPChyGmur4e7IZBPQOew4pIoQZ9ag/viewform"
+  formspreeFormUrl  = "https://docs.google.com/forms/d/e/1FAIpQLSdo18flpjsVsi0Ivnb3vkPChyGmur4e7IZBPQOew4pIoQZ9ag/formResponse"
 
   # Contact Form
   [params.contactForm]

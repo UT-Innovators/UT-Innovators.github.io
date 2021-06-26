@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : "私達のこれまで"
 counter_item: 
   - title: "満足いただけたユーザー(サンプル)"

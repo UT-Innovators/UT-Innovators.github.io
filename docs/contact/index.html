@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja"><head>
   <meta charset="utf-8" />
-  <title>Authors</title>
+  <title>Contact</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -96,31 +96,48 @@
   </div>
 </nav>
 <main>
-
-<section class="site-blog-header">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 text-center">
-                <h1>Authors</h1>
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          <span>お気軽に</span>お問い合わせください
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>ご質問・ご意見等お寄せください</h4>
+          <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSdo18flpjsVsi0Ivnb3vkPChyGmur4e7IZBPQOew4pIoQZ9ag/viewform" method="POST" target="hidden_iframe">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="entry.714442237" required="required" id="first-name" placeholder="姓">
+              </div>
+              <div class="col-lg-6">
+                <input type="text" class="form-control" name="entry.1743553697" required="required" id="last-name" placeholder="名">
+              </div>
+              <div class="col-lg-6">
+                <input type="email" class="form-control" name="entry.1097767197" required="required" id="email" placeholder="メールアドレス">
+              </div>
+              <div class="col-12">
+                <textarea class="form-control" id="aboutProject" name="entry.296178562" required="required" rows="6" placeholder="ご質問・ご意見等"></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="送信する">
+                      送信する
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <p id="contact-form-status"></p>
             </div>
+          </form>
         </div>
+      </div>
     </div>
+  </div>
 </section>
-
-<section class="site-blog">
-    <div class="container">
-        <div class="row">
-            <ul>
-                
-            </ul>
-        </div>
-    </div>
-</section>
-
-
-  
-
-
 
         </main><footer class="site-footer">
   <div class="container">

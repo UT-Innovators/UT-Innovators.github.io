@@ -1,4 +1,4 @@
-enable  : true
+enable  : false
 title   : 私たち
 members  :
   - image       : images/team/team-member-one.jpg

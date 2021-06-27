@@ -1,6 +1,6 @@
 baseURL       = "https://ut-innovators.github.io"
 languageCode  = "ja"
-title         = "UT Innovators"
+title         = "東大Passport"
 theme         = "roxo"
 summarylength = 25
 publishDir    = "docs"
@@ -35,7 +35,7 @@ hasCJKLanguage = true
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "UT Innovators"
+  description = "東大Passport Official Website"
   author = "UT Innovators"
   # Google Analitycs
   #googleAnalitycsID = "Your ID"
@@ -69,10 +69,10 @@ hasCJKLanguage = true
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "Welcome"
-    tagline               = ""
-    primary_button        = "About Us"
-    primary_button_url    = "about"
+    heading               = "東大Passport"
+    tagline               = "Welcome"
+    primary_button        = "Blog"
+    primary_button_url    = "blog"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
 
@@ -103,9 +103,15 @@ hasCJKLanguage = true
       [[params.footer.sitemap.link]]
           name = "About"
           url  = "about"
-        [[params.footer.sitemap.link]]
+      [[params.footer.sitemap.link]]
           name = "Blog"
-          url  = "blog"
+          url  = "blog" 
+      [[params.footer.sitemap.link]]
+          name = "Twitter"
+          url  = "https://twitter.com/todai_passport"
+      [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
     # Footer Social Media
     #  [params.footer.social]
     #    title   = "Social Media"

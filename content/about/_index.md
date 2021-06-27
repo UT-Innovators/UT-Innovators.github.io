@@ -1,8 +1,12 @@
 ---
 title: "About Us"
 date: 2021-06-23T11:00:00+09:00
-heading : "東大生によるグループ、UT Innovators"
+heading : "東大PassPortはUT Innovatorsによるグループです"
 description : "「情報を、すべての人に」をモットーに。"
-expertise_title: "何をしているの？"
-expertise_sectors: ["ホームページでの広報","ブログでの情報公開","Twitter(<a href=\"https://twitter.com/todai_passport\">@todai_passport</a>)での宣伝","個別相談","等々"]
+expertise_title1: "何をしているの？"
+expertise_sectors1: ["東大生による、東大を目指すのに役立つ情報発信","全ての受験生から保護者様まで、様々な方に楽しんでいただけ、将来のためになるようなコンテンツを発信していきます。"]
+expertise_title2: "東大生によるインタラクティブなイベント"
+expertise_sectors2: ["小学生、中学生、高校生、浪人生、保護者様それぞれの方を対象にした、質問もできるテーマ別のイベントを企画しております。8月を予定しております。"]
+expertise_title3: "東大生と少人数で話す、なんでも相談会"
+expertise_sectors3: ["受験相談から、モチベーションを高めたい方まで、どなたでもお越しください！私たちの持つ情報、経験を総動員して誠意を持って対応させていただきます。"]
 ---

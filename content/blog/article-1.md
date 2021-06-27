@@ -1,7 +1,7 @@
 ---
 title: "東大パスポートのご紹介"
 date: 2021-06-26T09:00:00+09:00
-image: images/blog/blog-post-04.jpg
+image: images/blog/article-1-top.png
 feature_image: images/blog/article-1-feature.jpg
 author: "芭蕉"
 authors: ["芭蕉"]

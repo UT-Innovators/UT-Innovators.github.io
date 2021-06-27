@@ -2,7 +2,7 @@
 title: "ドラゴン桜について理三生（宇宙人）がマジレスしてみた（前編）
 "
 date: 2021-06-27T09:00:00+09:00
-image: images/blog/blog-post-04.jpg
+image: images/blog/article-2-top.jpg
 feature_image: images/blog/article-2-feature.jpeg
 author: "芭蕉"
 authors: ["芭蕉"]

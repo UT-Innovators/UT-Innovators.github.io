@@ -2,18 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ut-innovators.github.io/authors/</loc>
+    <lastmod>2021-06-27T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://ut-innovators.github.io/</loc>
+    <lastmod>2021-06-27T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://ut-innovators.github.io/blog/article-2/</loc>
+    <lastmod>2021-06-27T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://ut-innovators.github.io/authors/%E8%8A%AD%E8%95%89/</loc>
+    <lastmod>2021-06-27T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://ut-innovators.github.io/blog/article-1/</loc>
+    <lastmod>2021-06-26T09:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://ut-innovators.github.io/about/</loc>
     <lastmod>2021-06-23T11:00:00+09:00</lastmod>
   </url><url>
     <loc>https://ut-innovators.github.io/blog/</loc>
     <lastmod>2021-06-23T11:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://ut-innovators.github.io/</loc>
-    <lastmod>2021-06-23T11:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://ut-innovators.github.io/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
-  </url><url>
-    <loc>https://ut-innovators.github.io/authors/</loc>
   </url>
 </urlset>

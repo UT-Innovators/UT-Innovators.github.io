@@ -4,6 +4,7 @@ title         = "UT Innovators"
 theme         = "roxo"
 summarylength = 25
 publishDir    = "docs"
+hasCJKLanguage = true
 
 # Site Menus
 [menu]

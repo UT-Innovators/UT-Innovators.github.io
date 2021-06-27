@@ -122,10 +122,10 @@ authors: ["芭蕉"]
 受験生や、東大を目指し始めるかもしれない人に向けて、ブログを通した情報発信・インタラクティブな相談会を行なっていきます。  
 是非我々のTwitterまたはFacebook、公式ラインを登録していただけると幸いです。  
 
-https://twitter.com/todai_passport
+[Twitter(@todai_passport)](https://twitter.com/todai_passport)  
 
-
-ここにリンク貼りたい
+公式ライン  
+![ラインのQRコード](/images/blog/article-1-image.png)  
 
 相談会は以下のような人にぴったりな内容にしていきたいと考えています。  
 
@@ -142,4 +142,3 @@ https://twitter.com/todai_passport
 これからどうぞよろしくお願いいたします。  
 
 ##### *東大PassPort*
-

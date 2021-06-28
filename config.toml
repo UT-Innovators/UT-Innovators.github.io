@@ -38,7 +38,7 @@ hasCJKLanguage = true
   description = "東大Passport Official Website"
   author = "UT Innovators"
   # Google Analitycs
-  #googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-98HSDBJPK2"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://docs.google.com/forms/d/e/1FAIpQLSdo18flpjsVsi0Ivnb3vkPChyGmur4e7IZBPQOew4pIoQZ9ag/formResponse"
 

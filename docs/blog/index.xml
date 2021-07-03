@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on 東大Passport</title>
+    <title>Blog on 東大PassPort</title>
     <link>https://ut-innovators.github.io/blog/</link>
-    <description>Recent content in Blog on 東大Passport</description>
+    <description>Recent content in Blog on 東大PassPort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 23 Jun 2021 11:00:00 +0900</lastBuildDate><atom:link href="https://ut-innovators.github.io/blog/index.xml" rel="self" type="application/rss+xml" />

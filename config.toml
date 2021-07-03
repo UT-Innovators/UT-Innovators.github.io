@@ -1,6 +1,6 @@
 baseURL       = "https://ut-innovators.github.io"
 languageCode  = "ja"
-title         = "東大Passport"
+title         = "東大PassPort"
 theme         = "roxo"
 summarylength = 25
 publishDir    = "docs"
@@ -35,7 +35,7 @@ hasCJKLanguage = true
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "東大Passport Official Website"
+  description = "東大PassPort Official Website"
   author = "UT Innovators"
   # Google Analitycs
   googleAnalitycsID = "G-98HSDBJPK2"
@@ -69,7 +69,7 @@ hasCJKLanguage = true
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "東大Passport"
+    heading               = "東大PassPort"
     tagline               = "Welcome"
     primary_button        = "Blog"
     primary_button_url    = "blog"

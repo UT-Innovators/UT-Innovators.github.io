@@ -29,11 +29,11 @@ authors: ["ゴールド"]
 　  
 
 現役時  
-![画像1](/images/blog/article-6-image1.jpg)  
+![画像1](/images/blog/article-6-image2.jpg)  
 　  
 
 浪人時  
-![画像2](/images/blog/article-6-image2.jpg)  
+![画像2](/images/blog/article-6-image1.jpg)  
 　  
 
 数学は低いですね。英語は高いですね。しかしどちらも15点くらい伸びています。理科はほとんど変わっていませんね。（浪人中なにしててん）  

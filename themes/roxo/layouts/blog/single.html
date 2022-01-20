@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<section class="site-blog details">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <article class="site-blog-details">
+          <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by
+            {{ range .Params.authors }}
+              <span><a href="{{ "authors/" | absURL }}{{ . | urlize }}">{{ . }}</a></span>
+            {{ end }}
+          </p>
+          <h2 class="blog-title">{{ .Title }}</h2>
+          {{ partial "share.html" . }}
+          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
+          {{ .Content}}
+        </article>
+        <br>
+          {{ partial "share.html" . }}
+        <br>
+        <a href="/blog/">Blogトップへ</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<a href="#top" id="totop" class="site-blog-backtotop"><p>トップへ戻る</p></a>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

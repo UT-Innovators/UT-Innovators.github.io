@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<section class="site-blog-header">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="site-blog">
+    <div class="container">
+        <div class="row">
+            <ul>
+                {{ range .Site.Taxonomies.authors.ByCount }}
+                <li><a href="{{ "/authors/" | relURL }}{{ .Name | urlize }}">{{ .Name }}({{ .Count }})</a></li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</section>
+
+{{ partial "call-to-action.html" . }}
+
+{{ end }}

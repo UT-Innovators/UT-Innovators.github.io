@@ -1,0 +1,33 @@
+{{ with .Site.Data.philosophy }}
+  {{ if .enable }}
+    <section class="site-about-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="site-about-wrapper">
+              <div class="site-about-company">
+                <h1>
+                  {{ .heading }}
+                </h1>
+              </div>
+              <div class="site-about-description">
+                <p>
+                  {{ .Description}}
+                </p>
+                <ul class="site-hero-content-buttons">
+                    <a href="/about/" class="btn btn-secondary">
+                      <span class="btn-area">
+                        <span data-text="About us">
+                          {{ .secondary_button }}About us
+                        </span>
+                      </span>
+                    </a>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
